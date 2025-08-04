@@ -1,0 +1,2 @@
+# django-timezone-sample
+DjangoとPostgresのタイムゾーン設定による動作の違いを確認するためのサンプルプロジェクト
