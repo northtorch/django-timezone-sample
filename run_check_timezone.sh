@@ -1,0 +1,1 @@
+docker compose exec web python manage.py check_timezone_behavior
